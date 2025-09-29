@@ -1,6 +1,6 @@
 # API de Recomendação Musical (pt-BR)
 
-Endpoints em português com página inicial amigável (`GET /`).
+Endpoints (`GET /`).
 
 ## Como rodar
 ```bash
